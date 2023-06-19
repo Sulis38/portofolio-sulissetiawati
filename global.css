@@ -1,0 +1,26 @@
+  
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mulish: Mulish;
+  --font-actor: Actor;
+  --font-abril-fatface: "Abril Fatface";
+
+  /* font sizes */
+  --font-size-2xl: 21px;
+  --font-size-lgi: 19px;
+  --font-size-xl: 20px;
+  --font-size-23xl: 42px;
+  --font-size-15xl: 34px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gold-100: #fdc500;
+
+  /* Paddings */
+  --padding-6xl: 25px;
+}
