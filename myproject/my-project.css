@@ -1,0 +1,1924 @@
+.my-project1 {
+  position: absolute;
+  width: 22.99%;
+  top: 52px;
+  left: 5.69%;
+  font-size: 42px;
+  display: flex;
+  align-items: center;
+  height: 64px;
+}
+.asset-12-icon,
+.asset-13-icon,
+.asset-7-2 {
+  position: absolute;
+  width: 10.83%;
+  top: 32px;
+  right: 25.49%;
+  left: 63.68%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 88px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.asset-12-icon,
+.asset-13-icon {
+  width: 14.86%;
+  right: 2.92%;
+  left: 82.22%;
+}
+.asset-13-icon {
+  width: 12.71%;
+  top: 35px;
+  right: 15.21%;
+  left: 72.08%;
+  height: 83px;
+}
+.rectangle-icon,
+.rectangle-icon1,
+.rectangle-icon2 {
+  position: absolute;
+  height: 99.84%;
+  width: 25.44%;
+  top: 0;
+  right: 74.56%;
+  bottom: 0.16%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon1,
+.rectangle-icon2 {
+  right: 49%;
+  left: 25.56%;
+}
+.rectangle-icon2 {
+  height: 99.67%;
+  width: 25.22%;
+  top: 0.16%;
+  right: 23.67%;
+  left: 51.11%;
+}
+.desain-poster,
+.rectangle-icon3 {
+  position: absolute;
+  height: 100%;
+  top: 0%;
+  bottom: -0%;
+}
+.rectangle-icon3 {
+  width: 23.61%;
+  right: 0;
+  left: 76.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.desain-poster {
+  width: 195.87%;
+  right: -95.87%;
+  left: 0;
+}
+.frame-poster {
+  position: absolute;
+  width: 60.82%;
+  top: 3.5%;
+  right: 30.28%;
+  left: 5.9%;
+  height: 10%;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.triangle1-icon,
+.triangle2-icon {
+  position: absolute;
+  height: 1.77%;
+  width: 68.61%;
+  top: 7.4%;
+  right: 28.06%;
+  bottom: 90.83%;
+  left: 3.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.triangle2-icon {
+  width: 59.86%;
+  top: 18.33%;
+  right: 4.65%;
+  bottom: 79.9%;
+  left: 35.49%;
+}
+.design-feeds-instagram {
+  position: absolute;
+  width: 33.96%;
+  top: 854px;
+  left: 58.26%;
+  font-size: var(--font-size-22xl);
+  display: flex;
+  color: var(--color-gold-200);
+  align-items: center;
+  height: 84px;
+}
+.rectangle-icon4,
+.rectangle-icon5,
+.rectangle-icon6,
+.rectangle-icon7 {
+  position: absolute;
+  height: 99.91%;
+  width: 24.88%;
+  top: 0;
+  right: 75.12%;
+  bottom: 0.09%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon5,
+.rectangle-icon6,
+.rectangle-icon7 {
+  right: 50.08%;
+  left: 25.04%;
+}
+.rectangle-icon6,
+.rectangle-icon7 {
+  right: 25.04%;
+  left: 50.08%;
+}
+.rectangle-icon7 {
+  height: 100%;
+  right: 0;
+  bottom: 0;
+  left: 75.12%;
+}
+.desain-feeds {
+  position: absolute;
+  height: 100.01%;
+  width: 199.75%;
+  top: 0;
+  right: -99.75%;
+  bottom: -0.01%;
+  left: 0;
+}
+.frame-feeds {
+  position: absolute;
+  width: 54.03%;
+  top: 935px;
+  right: 7.64%;
+  left: 38.33%;
+  height: 387px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.rectangle-icon8,
+.rectangle-icon9 {
+  position: absolute;
+  height: 5.69%;
+  width: 38.06%;
+  top: 25.25%;
+  right: 7.43%;
+  bottom: 69.06%;
+  left: 54.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-icon9 {
+  height: 9.05%;
+  width: 19.79%;
+  top: 25.19%;
+  right: 71.6%;
+  bottom: 65.76%;
+  left: 8.61%;
+}
+.capstone-project-studi,
+.video-graphic {
+  font-size: var(--font-size-22xl);
+  color: var(--color-gold-200);
+}
+.video-graphic {
+  position: absolute;
+  width: 39.1%;
+  top: 1392px;
+  left: 32.22%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 84px;
+}
+.capstone-project-studi {
+  width: 86.53%;
+  top: 2115px;
+  left: 5.97%;
+}
+.capstone-project-studi,
+.data-analytics-,
+.digital-marketing-,
+.other-project,
+.product-management- {
+  position: absolute;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content:center;
+  height: 118px;
+}
+.other-project {
+  width: 86.53%;
+  top: 4539px;
+  left: 6.74%;
+  font-size: var(--font-size-22xl);
+  color: var(--color-gold-200);
+}
+.data-analytics-,
+.digital-marketing-,
+.product-management- {
+  width: 58.89%;
+  top: 2189px;
+  left: 2.36%;
+  font-size: var(--font-size-15xl);
+}
+.data-analytics-,
+.digital-marketing- {
+  top: 2824px;
+  left: 38.61%;
+}
+.data-analytics- {
+  width: 43.4%;
+  top: 3412px;
+  left: 5.69%;
+  height: 130px;
+}
+.the-poster-designs {
+  position: absolute;
+  width: 22.32%;
+  top: 3.5%;
+  left: 68.81%;
+  font-size:95%;
+  display:inline-block;
+ 
+}
+.tools {
+  width: 5.35%;
+  top: 11%;
+  left: 68.81%;
+  height: 37px;
+}
+.a-graphic-video,
+.the-design-for,
+.tools {
+  position: absolute;
+  display: inline-block;
+}
+.the-design-for {
+  width: 29.1%;
+  top: 932px;
+  left: 6.39%;
+  text-align: right;
+  height: 212px;
+}
+.a-graphic-video {
+  width: 21.94%;
+  top: 1490px;
+  left: 30.07%;
+  height: 359px;
+}
+.span {
+  font-weight: 800;
+}
+.a-case-study-container {
+  width: 27.64%;
+  top: 2290px;
+  left: 63.83%;
+  height: 493px;
+}
+.a-case-study-container,
+.a-case-study-container1,
+.in-the-data-container {
+  position: absolute;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+}
+.a-case-study-container1 {
+  width: 26.6%;
+  top: 2929px;
+  left: 14.79%;
+  text-align: right;
+  height: 336px;
+}
+.in-the-data-container {
+  width: 33.96%;
+  top: 3514px;
+  left: 58.26%;
+  height: 368px;
+}
+.a-graphic-video1 {
+  position: absolute;
+  width: 38.19%;
+  top: 1836px;
+  left: 54.44%;
+  display: inline-block;
+  height: 94px;
+}
+.design-poster {
+  position: absolute;
+  width: 21.67%;
+  top: 129px;
+  left: 5.63%;
+  font-size: var(--font-size-22xl);
+  display: flex;
+  color: var(--color-gold-200);
+  align-items: center;
+  height: 64px;
+}
+.rectangle-icon10,
+.rectangle-icon11,
+.rectangle-icon12,
+.rectangle-icon13,
+.rectangle-icon14,
+.rectangle-icon15,
+.rectangle-icon16,
+.rectangle-icon17 {
+  position: absolute;
+  height: 96.76%;
+  width: 3.28%;
+  top: 1.52%;
+  right: 0;
+  bottom: 1.72%;
+  left: 96.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon11,
+.rectangle-icon12,
+.rectangle-icon13,
+.rectangle-icon14,
+.rectangle-icon15,
+.rectangle-icon16,
+.rectangle-icon17 {
+  right: 19.83%;
+  left: 76.88%;
+}
+.rectangle-icon12,
+.rectangle-icon13,
+.rectangle-icon14,
+.rectangle-icon15,
+.rectangle-icon16,
+.rectangle-icon17 {
+  right: 16.53%;
+  left: 80.18%;
+}
+.rectangle-icon13,
+.rectangle-icon14,
+.rectangle-icon15,
+.rectangle-icon16,
+.rectangle-icon17 {
+  right: 13.23%;
+  left: 83.48%;
+}
+.rectangle-icon14,
+.rectangle-icon15,
+.rectangle-icon16,
+.rectangle-icon17 {
+  right: 9.93%;
+  left: 86.79%;
+}
+.rectangle-icon15,
+.rectangle-icon16,
+.rectangle-icon17 {
+  right: 6.62%;
+  left: 90.09%;
+}
+.rectangle-icon16,
+.rectangle-icon17 {
+  right: 3.32%;
+  left: 93.4%;
+}
+.rectangle-icon17 {
+  height: 96.04%;
+  width: 3.25%;
+  top: 0;
+  right: 83.57%;
+  bottom: 3.96%;
+  left: 13.19%;
+}
+.rectangle-icon18,
+.rectangle-icon19,
+.rectangle-icon20,
+.rectangle-icon21,
+.rectangle-icon22 {
+  position: absolute;
+  height: 96.77%;
+  width: 3.27%;
+  top: 1.14%;
+  right: 96.73%;
+  bottom: 2.09%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon19,
+.rectangle-icon20,
+.rectangle-icon21,
+.rectangle-icon22 {
+  top: 0;
+  right: 93.43%;
+  bottom: 3.23%;
+  left: 3.3%;
+}
+.rectangle-icon20,
+.rectangle-icon21,
+.rectangle-icon22 {
+  right: 90.14%;
+  left: 6.58%;
+}
+.rectangle-icon21,
+.rectangle-icon22 {
+  right: 86.85%;
+  left: 9.87%;
+}
+.rectangle-icon22 {
+  height: 96.58%;
+  right: 83.56%;
+  bottom: 3.42%;
+  left: 13.17%;
+}
+.rectangle-icon23,
+.rectangle-icon24,
+.rectangle-icon25,
+.rectangle-icon26,
+.rectangle-icon27,
+.rectangle-icon28 {
+  position: absolute;
+  height: 96.58%;
+  width: 3.26%;
+  top: -1.14%;
+  right: 80.27%;
+  bottom: 4.56%;
+  left: 16.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon24,
+.rectangle-icon25,
+.rectangle-icon26,
+.rectangle-icon27,
+.rectangle-icon28 {
+  top: 0;
+  right: 76.97%;
+  bottom: 3.42%;
+  left: 19.77%;
+}
+.rectangle-icon25,
+.rectangle-icon26,
+.rectangle-icon27,
+.rectangle-icon28 {
+  width: 3.27%;
+  right: 73.68%;
+  left: 23.05%;
+}
+.rectangle-icon26,
+.rectangle-icon27,
+.rectangle-icon28 {
+  right: 70.37%;
+  left: 26.36%;
+}
+.rectangle-icon27,
+.rectangle-icon28 {
+  right: 67.07%;
+  left: 29.67%;
+}
+.rectangle-icon28 {
+  right: 63.77%;
+  left: 32.96%;
+}
+.rectangle-icon29,
+.rectangle-icon30,
+.rectangle-icon31,
+.rectangle-icon32,
+.rectangle-icon33,
+.rectangle-icon34 {
+  position: absolute;
+  height: 99.25%;
+  width: 3.35%;
+  top: -0.57%;
+  right: 60.36%;
+  bottom: 1.32%;
+  left: 36.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon30,
+.rectangle-icon31,
+.rectangle-icon32,
+.rectangle-icon33,
+.rectangle-icon34 {
+  right: 56.98%;
+  left: 39.67%;
+}
+.rectangle-icon31,
+.rectangle-icon32,
+.rectangle-icon33,
+.rectangle-icon34 {
+  right: 53.6%;
+  left: 43.05%;
+}
+.rectangle-icon32,
+.rectangle-icon33,
+.rectangle-icon34 {
+  right: 50.22%;
+  left: 46.43%;
+}
+.rectangle-icon33,
+.rectangle-icon34 {
+  right: 46.84%;
+  left: 49.81%;
+}
+.rectangle-icon34 {
+  right: 43.45%;
+  left: 53.2%;
+}
+.rectangle-icon35,
+.rectangle-icon36,
+.rectangle-icon37,
+.rectangle-icon38,
+.rectangle-icon39,
+.rectangle-icon40 {
+  position: absolute;
+  height: 99.25%;
+  width: 3.35%;
+  top: -0.39%;
+  right: 40.06%;
+  bottom: 1.14%;
+  left: 56.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon36,
+.rectangle-icon37,
+.rectangle-icon38,
+.rectangle-icon39,
+.rectangle-icon40 {
+  top: -0.57%;
+  right: 36.68%;
+  bottom: 1.32%;
+  left: 59.97%;
+}
+.rectangle-icon37,
+.rectangle-icon38,
+.rectangle-icon39,
+.rectangle-icon40 {
+  right: 33.29%;
+  left: 63.36%;
+}
+.rectangle-icon38,
+.rectangle-icon39,
+.rectangle-icon40 {
+  right: 29.9%;
+  left: 66.75%;
+}
+.rectangle-icon39,
+.rectangle-icon40 {
+  right: 26.52%;
+  left: 70.13%;
+}
+.rectangle-icon40 {
+  right: 23.15%;
+  left: 73.5%;
+}
+.joox-ppt {
+  position: absolute;
+  height: 103.34%;
+  width: 3247.65%;
+  top: -1.18%;
+  right: -3147.65%;
+  bottom: -2.16%;
+  left: 0;
+}
+.frame-cp-joox {
+  position: absolute;
+  width: 50.17%;
+  top: 2299px;
+  right: 37.01%;
+  left: 10.82%;
+  height: 8%;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.triangle3-icon {
+  position: absolute;
+  height: 1.63%;
+  width: 58.47%;
+  top: 41.97%;
+  right: 34.93%;
+  bottom: 56.4%;
+  left: 6.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-icon41,
+.rectangle-icon42,
+.rectangle-icon43,
+.rectangle-icon44,
+.rectangle-icon45,
+.rectangle-icon46 {
+  position: absolute;
+  height: 98.69%;
+  width: 2.5%;
+  top: 1.36%;
+  right: 97.49%;
+  bottom: -0.05%;
+  left: 0.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon42,
+.rectangle-icon43,
+.rectangle-icon44,
+.rectangle-icon45,
+.rectangle-icon46 {
+  width: 2.49%;
+  top: -1.15%;
+  right: 92.53%;
+  bottom: 2.45%;
+  left: 4.98%;
+}
+.rectangle-icon43,
+.rectangle-icon44,
+.rectangle-icon45,
+.rectangle-icon46 {
+  width: 2.5%;
+  right: 90.02%;
+  left: 7.48%;
+}
+.rectangle-icon44,
+.rectangle-icon45,
+.rectangle-icon46 {
+  width: 2.49%;
+  right: 87.54%;
+  left: 9.97%;
+}
+.rectangle-icon45,
+.rectangle-icon46 {
+  width: 2.5%;
+  right: 85.04%;
+  left: 12.46%;
+}
+.rectangle-icon46 {
+  right: 82.54%;
+  left: 14.96%;
+}
+.rectangle-icon47,
+.rectangle-icon48,
+.rectangle-icon49,
+.rectangle-icon50,
+.rectangle-icon51,
+.rectangle-icon52,
+.rectangle-icon53 {
+  position: absolute;
+  height: 98.69%;
+  width: 2.49%;
+  top: -1.15%;
+  right: 80.05%;
+  bottom: 2.45%;
+  left: 17.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon48,
+.rectangle-icon49,
+.rectangle-icon50,
+.rectangle-icon51,
+.rectangle-icon52,
+.rectangle-icon53 {
+  width: 2.5%;
+  right: 77.56%;
+  left: 19.94%;
+}
+.rectangle-icon49,
+.rectangle-icon50,
+.rectangle-icon51,
+.rectangle-icon52,
+.rectangle-icon53 {
+  width: 2.49%;
+  right: 75.06%;
+  left: 22.44%;
+}
+.rectangle-icon50,
+.rectangle-icon51,
+.rectangle-icon52,
+.rectangle-icon53 {
+  width: 2.5%;
+  right: 72.57%;
+  left: 24.93%;
+}
+.rectangle-icon51,
+.rectangle-icon52,
+.rectangle-icon53 {
+  width: 2.49%;
+  right: 70.07%;
+  left: 27.44%;
+}
+.rectangle-icon52,
+.rectangle-icon53 {
+  width: 2.5%;
+  right: 67.44%;
+  left: 30.06%;
+}
+.rectangle-icon53 {
+  width: 2.49%;
+  right: 64.95%;
+  left: 32.55%;
+}
+.rectangle-icon54,
+.rectangle-icon55,
+.rectangle-icon56,
+.rectangle-icon57,
+.rectangle-icon58,
+.rectangle-icon59,
+.rectangle-icon60 {
+  position: absolute;
+  height: 98.69%;
+  width: 2.5%;
+  top: -1.15%;
+  right: 62.52%;
+  bottom: 2.45%;
+  left: 34.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon55,
+.rectangle-icon56,
+.rectangle-icon57,
+.rectangle-icon58,
+.rectangle-icon59,
+.rectangle-icon60 {
+  width: 2.49%;
+  right: 60.03%;
+  left: 37.48%;
+}
+.rectangle-icon56,
+.rectangle-icon57,
+.rectangle-icon58,
+.rectangle-icon59,
+.rectangle-icon60 {
+  width: 2.5%;
+  right: 57.51%;
+  left: 39.99%;
+}
+.rectangle-icon57,
+.rectangle-icon58,
+.rectangle-icon59,
+.rectangle-icon60 {
+  width: 2.49%;
+  right: 55%;
+  left: 42.5%;
+}
+.rectangle-icon58,
+.rectangle-icon59,
+.rectangle-icon60 {
+  right: 52.49%;
+  left: 45.01%;
+}
+.rectangle-icon59,
+.rectangle-icon60 {
+  width: 2.5%;
+  right: 49.99%;
+  left: 47.52%;
+}
+.rectangle-icon60 {
+  width: 2.49%;
+  right: 47.47%;
+  left: 50.04%;
+}
+.rectangle-icon61,
+.rectangle-icon62,
+.rectangle-icon63,
+.rectangle-icon64,
+.rectangle-icon65,
+.rectangle-icon66,
+.rectangle-icon67,
+.rectangle-icon68 {
+  position: absolute;
+  height: 98.69%;
+  width: 2.49%;
+  top: -1.15%;
+  right: 45%;
+  bottom: 2.45%;
+  left: 52.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon62,
+.rectangle-icon63,
+.rectangle-icon64,
+.rectangle-icon65,
+.rectangle-icon66,
+.rectangle-icon67,
+.rectangle-icon68 {
+  right: 42.48%;
+  left: 55.03%;
+}
+.rectangle-icon63,
+.rectangle-icon64,
+.rectangle-icon65,
+.rectangle-icon66,
+.rectangle-icon67,
+.rectangle-icon68 {
+  width: 2.5%;
+  right: 39.96%;
+  left: 57.54%;
+}
+.rectangle-icon64,
+.rectangle-icon65,
+.rectangle-icon66,
+.rectangle-icon67,
+.rectangle-icon68 {
+  width: 2.49%;
+  right: 37.45%;
+  left: 60.06%;
+}
+.rectangle-icon65,
+.rectangle-icon66,
+.rectangle-icon67,
+.rectangle-icon68 {
+  width: 2.5%;
+  right: 34.95%;
+  left: 62.55%;
+}
+.rectangle-icon66,
+.rectangle-icon67,
+.rectangle-icon68 {
+  right: 32.46%;
+  left: 65.04%;
+}
+.rectangle-icon67,
+.rectangle-icon68 {
+  width: 2.49%;
+  right: 29.96%;
+  left: 67.54%;
+}
+.rectangle-icon68 {
+  height: 98.76%;
+  width: 2.5%;
+  top: -1.04%;
+  right: 27.47%;
+  bottom: 2.28%;
+  left: 70.03%;
+}
+.rectangle-icon69,
+.rectangle-icon70,
+.rectangle-icon71,
+.rectangle-icon72,
+.rectangle-icon73 {
+  position: absolute;
+  height: 98.69%;
+  width: 2.49%;
+  top: -1.15%;
+  right: 24.98%;
+  bottom: 2.45%;
+  left: 72.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon70,
+.rectangle-icon71,
+.rectangle-icon72,
+.rectangle-icon73 {
+  width: 2.5%;
+  right: 22.48%;
+  left: 75.02%;
+}
+.rectangle-icon71,
+.rectangle-icon72,
+.rectangle-icon73 {
+  width: 2.49%;
+  right: 19.98%;
+  left: 77.53%;
+}
+.rectangle-icon72,
+.rectangle-icon73 {
+  width: 2.5%;
+  right: 17.47%;
+  left: 80.03%;
+}
+.rectangle-icon73 {
+  width: 2.49%;
+  right: 14.98%;
+  left: 82.53%;
+}
+.pitching-day-capstone-project,
+.rectangle-icon74,
+.rectangle-icon75,
+.rectangle-icon76,
+.rectangle-icon77,
+.rectangle-icon78,
+.rectangle-icon79 {
+  position: absolute;
+  height: 98.69%;
+  width: 2.5%;
+  top: -1.15%;
+  right: 12.5%;
+  bottom: 2.45%;
+  left: 85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.pitching-day-capstone-project,
+.rectangle-icon75,
+.rectangle-icon76,
+.rectangle-icon77,
+.rectangle-icon78,
+.rectangle-icon79 {
+  right: 9.99%;
+  left: 87.51%;
+}
+.pitching-day-capstone-project,
+.rectangle-icon76,
+.rectangle-icon77,
+.rectangle-icon78,
+.rectangle-icon79 {
+  right: 7.5%;
+  left: 90.01%;
+}
+.pitching-day-capstone-project,
+.rectangle-icon77,
+.rectangle-icon78,
+.rectangle-icon79 {
+  width: 2.49%;
+  right: 5.01%;
+  left: 92.5%;
+}
+.pitching-day-capstone-project,
+.rectangle-icon78,
+.rectangle-icon79 {
+  width: 2.5%;
+  right: 2.51%;
+  left: 94.99%;
+}
+.pitching-day-capstone-project,
+.rectangle-icon79 {
+  right: 0.02%;
+  left: 97.49%;
+}
+.pitching-day-capstone-project {
+  height: 99.04%;
+  top: 1.36%;
+  right: 95%;
+  bottom: -0.4%;
+  left: 2.5%;
+}
+.beauty-ppt {
+  position: absolute;
+  height: 101.43%;
+  width: 4024.26%;
+  top: -1.38%;
+  right: -3923.56%;
+  bottom: -0.00%;
+  left: -0.7%;
+}
+.frame-dm {
+  position: absolute;
+  width: 47.68%;
+  top: 2932px;
+  right: 7.01%;
+  left: 43.31%;
+  height: 7%;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.triangle4-icon {
+  position: absolute;
+  height: 1.68%;
+  width: 57.64%;
+  top: 52.3%;
+  right: 5.07%;
+  bottom: 46.02%;
+  left: 37.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.software-engineer- {
+  position: absolute;
+  width: 58.89%;
+  top: 3931px;
+  left: 38.13%;
+  font-size: var(--font-size-15xl);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 118px;
+}
+.in-the-software {
+  margin: 0;
+}
+.in-the-software-container {
+  position: absolute;
+  width: 24.86%;
+  top: 4035px;
+  left: 9.03%;
+  text-align: right;
+  display: inline-block;
+  height: 379px;
+}
+.in-the-material {
+  position: absolute;
+  width: 37.78%;
+  top: 4668px;
+  left: 52.43%;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  height: 259px;
+}
+.rectangle-icon80,
+.rectangle-icon81 {
+  position: absolute;
+  height: 100%;
+  width: 4.16%;
+  top: 0.74%;
+  right: 95.84%;
+  bottom: -0.74%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon81 {
+  right: 91.68%;
+  left: 4.16%;
+}
+.rectangle-icon82,
+.rectangle-icon83,
+.rectangle-icon84,
+.rectangle-icon85,
+.rectangle-icon86,
+.rectangle-icon87,
+.rectangle-icon88 {
+  position: absolute;
+  height: 100%;
+  width: 4.16%;
+  top: -0.74%;
+  right: 87.48%;
+  bottom: 0.74%;
+  left: 8.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon83,
+.rectangle-icon84,
+.rectangle-icon85,
+.rectangle-icon86,
+.rectangle-icon87,
+.rectangle-icon88 {
+  right: 83.32%;
+  left: 12.51%;
+}
+.rectangle-icon84,
+.rectangle-icon85,
+.rectangle-icon86,
+.rectangle-icon87,
+.rectangle-icon88 {
+  right: 79.14%;
+  left: 16.7%;
+}
+.rectangle-icon85,
+.rectangle-icon86,
+.rectangle-icon87,
+.rectangle-icon88 {
+  right: 74.98%;
+  left: 20.86%;
+}
+.rectangle-icon86,
+.rectangle-icon87,
+.rectangle-icon88 {
+  right: 70.82%;
+  left: 25.02%;
+}
+.rectangle-icon87,
+.rectangle-icon88 {
+  right: 66.62%;
+  left: 29.22%;
+}
+.rectangle-icon88 {
+  right: 62.47%;
+  left: 33.37%;
+}
+.rectangle-icon89,
+.rectangle-icon90,
+.rectangle-icon91,
+.rectangle-icon92,
+.rectangle-icon93,
+.rectangle-icon94,
+.rectangle-icon95,
+.rectangle-icon96 {
+  position: absolute;
+  height: 100%;
+  width: 4.16%;
+  top: -0.74%;
+  right: 58.26%;
+  bottom: 0.74%;
+  left: 37.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon90,
+.rectangle-icon91,
+.rectangle-icon92,
+.rectangle-icon93,
+.rectangle-icon94,
+.rectangle-icon95,
+.rectangle-icon96 {
+  right: 54.11%;
+  left: 41.72%;
+}
+.rectangle-icon91,
+.rectangle-icon92,
+.rectangle-icon93,
+.rectangle-icon94,
+.rectangle-icon95,
+.rectangle-icon96 {
+  right: 49.92%;
+  left: 45.92%;
+}
+.rectangle-icon92,
+.rectangle-icon93,
+.rectangle-icon94,
+.rectangle-icon95,
+.rectangle-icon96 {
+  right: 45.76%;
+  left: 50.08%;
+}
+.rectangle-icon93,
+.rectangle-icon94,
+.rectangle-icon95,
+.rectangle-icon96 {
+  right: 41.6%;
+  left: 54.24%;
+}
+.rectangle-icon94,
+.rectangle-icon95,
+.rectangle-icon96 {
+  right: 37.44%;
+  left: 58.4%;
+}
+.rectangle-icon95,
+.rectangle-icon96 {
+  right: 33.28%;
+  left: 62.56%;
+}
+.rectangle-icon96 {
+  right: 29.12%;
+  left: 66.72%;
+}
+.rectangle-icon100,
+.rectangle-icon101,
+.rectangle-icon102,
+.rectangle-icon103,
+.rectangle-icon97,
+.rectangle-icon98,
+.rectangle-icon99 {
+  position: absolute;
+  height: 100%;
+  width: 4.16%;
+  top: -0.74%;
+  right: 24.96%;
+  bottom: 0.74%;
+  left: 70.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon100,
+.rectangle-icon101,
+.rectangle-icon102,
+.rectangle-icon103,
+.rectangle-icon98,
+.rectangle-icon99 {
+  right: 20.8%;
+  left: 75.04%;
+}
+.rectangle-icon100,
+.rectangle-icon101,
+.rectangle-icon102,
+.rectangle-icon103,
+.rectangle-icon99 {
+  right: 16.64%;
+  left: 79.2%;
+}
+.rectangle-icon100,
+.rectangle-icon101,
+.rectangle-icon102,
+.rectangle-icon103 {
+  right: 12.48%;
+  left: 83.36%;
+}
+.rectangle-icon101,
+.rectangle-icon102,
+.rectangle-icon103 {
+  right: 8.32%;
+  left: 87.52%;
+}
+.rectangle-icon102,
+.rectangle-icon103 {
+  right: 4.16%;
+  left: 91.68%;
+}
+.rectangle-icon103 {
+  right: 0;
+  left: 95.84%;
+}
+.xyz-ppt {
+  position: absolute;
+  height: 102.81%;
+  width: 2403.91%;
+  top: -0.76%;
+  right: -2303.91%;
+  bottom: -2.05%;
+  left: 0;
+}
+.frame-da {
+  position: absolute;
+  width: 47.57%;
+  top: 3523px;
+  right: 43.54%;
+  left: 8.89%;
+  height: 376px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.asset-11-2,
+.triangle5-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+}
+.triangle5-icon {
+  height: 1.64%;
+  width: 52.15%;
+  top: 61.96%;
+  right: 41.25%;
+  bottom: 36.39%;
+  left: 6.6%;
+  max-height: 100%;
+}
+.asset-11-2 {
+  width: 6.5%;
+  top: 11.5%;
+  right: 23.13%;
+  left: 68.11%;
+  height: 1.2%;
+  object-fit: scale-down;
+}
+.tools1,
+.tools2 {
+  position: absolute;
+  width: 6.11%;
+  top: 1178px;
+  left: 28.68%;
+  text-align: right;
+  display: inline-block;
+  height: 37px;
+}
+.tools2 {
+  width: 5.42%;
+  top: 1907px;
+  left: 28.82%;
+}
+.asset-11-3,
+.asset-11-4 {
+  position: absolute;
+  width: 5.76%;
+  top: 1201px;
+  right: 63.82%;
+  left: 30.42%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 63px;
+  object-fit: fill;
+}
+.asset-11-4 {
+  top: 1936px;
+  right: 64.86%;
+  left: 29.38%;
+}
+.copyright-2023-sulissetiawati {
+  position: absolute;
+  width: 43.13%;
+  top: 5813px;
+  left: 28.47%;
+  font-size: var(--font-size-2xl);
+  display: flex;
+  color: var(--color-gold-100);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 39px;
+}
+.asset-11-21,
+.vector-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 1.8%;
+  width: 4.24%;
+  top: 91.26%;
+  right: 4.93%;
+  bottom: 6.95%;
+  left: 90.83%;
+  max-height: 100%;
+  cursor: pointer;
+}
+.asset-11-21 {
+  width: 4.79%;
+  top: 1950px;
+  right: 61.67%;
+  left: 33.54%;
+  height: 55px;
+  object-fit: cover;
+}
+.tools4 {
+  position: absolute;
+  width: 5.42%;
+  top: 1987px;
+  left: 54.44%;
+  text-align: right;
+  display: inline-block;
+  height: 37px;
+}
+.asset-11-7 {
+  position: absolute;
+  width: 5.76%;
+  top: 2016px;
+  right: 39.24%;
+  left: 55%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 63px;
+  object-fit: cover;
+}
+.tools5 {
+  position: absolute;
+  width: 4.51%;
+  top: 5413px;
+  left: 55.07%;
+  text-align: right;
+  display: inline-block;
+  height: 37px;
+}
+.asset-11-8,
+.asset-11-9 {
+  position: absolute;
+  width: 5.76%;
+  top: 5443px;
+  right: 39.17%;
+  left: 55.07%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 55px;
+  object-fit: cover;
+}
+.asset-11-8 {
+  width: 4.79%;
+  top: 2029px;
+  right: 36.04%;
+  left: 59.17%;
+}
+.click-here-to {
+  text-decoration: underline;
+}
+.click-here-to-watch-the-video {
+  color: inherit;
+}
+.click-here-to-container,
+.click-here-to-container2 {
+  position: absolute;
+  width: 30.83%;
+  font-size: var(--font-size-xl);
+  display: flex;
+  color: inherit;
+  align-items: center;
+  height: 61px;
+}
+.click-here-to-container {
+  top: 1832px;
+  left: 24.79%;
+  text-align: center;
+}
+.click-here-to-container2 {
+  top: 1920px;
+  left: 55.28%;
+}
+.my-project-child {
+  position: absolute;
+  top: 5579px;
+  left: calc(50% - 760px);
+  background-color: #00509d;
+  width: 1540px;
+  height: 193px;
+}
+.icon-envelope-closed,
+.icon-github,
+.icon-instagram,
+.icon-linkedin {
+  position: absolute;
+  height: 1%;
+  width: 4.1%;
+  top: 95%;
+  right: 44.38%;
+  bottom: 4%;
+  left: 51.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-envelope-closed,
+.icon-github,
+.icon-linkedin {
+  top: 95.02%;
+  right: 76.81%;
+  bottom: 3.98%;
+  left: 19.1%;
+}
+.icon-envelope-closed,
+.icon-github {
+  height: 0.81%;
+  width: 4.17%;
+  top: 96.56%;
+  right: 76.74%;
+  bottom: 2.63%;
+}
+.icon-github {
+  height: 1%;
+  width: 4.2%;
+  top: 96.36%;
+  right: 44.27%;
+  bottom: 2.64%;
+  left: 51.53%;
+}
+.sulis38-meisner8 {
+  width: 25.21%;
+  top: 5686px;
+  left: 57.15%;
+  text-decoration: none;
+  font-style: italic;
+  font-weight: 600;
+  color: inherit;
+  height: 61px;
+}
+.sulis38-meisner8,
+.sulissetiawati-,
+.sulissetiawati-sulisset-0382,
+.sulissetwati085gmailcom {
+  position: absolute;
+  font-size: var(--font-size-2xl);
+  display: flex;
+  align-items: center;
+}
+.sulissetiawati-sulisset-0382 {
+  width: 30.83%;
+  top: 5606px;
+  left: 57.15%;
+  text-decoration: none;
+  font-style: italic;
+  color: inherit;
+  height: 61px;
+}
+.sulissetiawati-,
+.sulissetwati085gmailcom {
+  font-weight: 600;
+}
+.sulissetiawati- {
+  width: 20.28%;
+  top: 5614px;
+  left: 24.58%;
+  text-decoration: none;
+  font-style: italic;
+  color: inherit;
+  height: 53px;
+}
+.sulissetwati085gmailcom {
+  width: 20.49%;
+  top: 5688px;
+  left: 23.82%;
+  text-align: center;
+  justify-content: center;
+  height: 42px;
+}
+.rectangle-icon104,
+.rectangle-icon105,
+.rectangle-icon106,
+.rectangle-icon107,
+.rectangle-icon108 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -1000%;
+  bottom: 0;
+  left: 1000%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon105,
+.rectangle-icon106,
+.rectangle-icon107,
+.rectangle-icon108 {
+  right: 0;
+  left: 0;
+}
+.rectangle-icon106,
+.rectangle-icon107,
+.rectangle-icon108 {
+  right: -100%;
+  left: 100%;
+}
+.rectangle-icon107,
+.rectangle-icon108 {
+  right: -198.89%;
+  left: 198.89%;
+}
+.rectangle-icon108 {
+  right: -300%;
+  left: 300%;
+}
+.rectangle-icon109,
+.rectangle-icon110,
+.rectangle-icon111,
+.rectangle-icon112,
+.rectangle-icon113,
+.rectangle-icon114,
+.rectangle-icon115 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -400%;
+  bottom: 0;
+  left: 400%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon110,
+.rectangle-icon111,
+.rectangle-icon112,
+.rectangle-icon113,
+.rectangle-icon114,
+.rectangle-icon115 {
+  right: -500%;
+  left: 500%;
+}
+.rectangle-icon111,
+.rectangle-icon112,
+.rectangle-icon113,
+.rectangle-icon114,
+.rectangle-icon115 {
+  right: -600%;
+  left: 600%;
+}
+.rectangle-icon112,
+.rectangle-icon113,
+.rectangle-icon114,
+.rectangle-icon115 {
+  right: -700%;
+  left: 700%;
+}
+.rectangle-icon113,
+.rectangle-icon114,
+.rectangle-icon115 {
+  right: -800%;
+  left: 800%;
+}
+.rectangle-icon114,
+.rectangle-icon115 {
+  right: -900%;
+  left: 900%;
+}
+.rectangle-icon115 {
+  right: -1100%;
+  left: 1100%;
+}
+.frame-tunable {
+  position: absolute;
+  width: 41.67%;
+  top: 4671px;
+  right: 49.58%;
+  left: 8.75%;
+  height: 6.1%;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.triangle7-icon {
+  position: absolute;
+  height: 1.68%;
+  width: 45.42%;
+  top: 81.67%;
+  right: 47.71%;
+  bottom: 16.66%;
+  left: 6.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.in-the-modern {
+  position: absolute;
+  width: 34.86%;
+  top: 5107px;
+  left: 25.97%;
+  font-size: var(--font-size-2xl);
+  text-align: right;
+  display: inline-block;
+  height: 221px;
+}
+.image-removebg-preview-1-icon {
+  position: absolute;
+  width: 12.54%;
+  top: 5085px;
+  right: 24.24%;
+  left: 62.22%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 7%;
+  object-fit: fill;
+}
+.click-here-for-container {
+  position: absolute;
+  width: 15.28%;
+  top: 5348px;
+  left: 44.86%;
+  font-size: var(--font-size-xl);
+  display: flex;
+  color: inherit;
+  text-align: right;
+  align-items: center;
+  height: 61px;
+}
+.link-website-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.link-website,
+.tools6 {
+  position: absolute;
+  text-align: right;
+}
+.link-website {
+  width: 12.57%;
+  top: 4434px;
+  left: 20.97%;
+  font-size: var(--font-size-xl);
+  display: flex;
+  color: inherit;
+  align-items: center;
+  height: 61px;
+}
+.tools6 {
+  width: 5.42%;
+  top: 4943px;
+  left: 51.04%;
+  display: inline-block;
+  height: 37px;
+}
+.asset-11-10,
+.rectangle-icon116,
+.rectangle-icon117,
+.rectangle-icon118 {
+  position: absolute;
+  width: 4.86%;
+  top: 4979px;
+  right: 44.1%;
+  left: 51.04%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 53px;
+  object-fit: fill;
+}
+.rectangle-icon116,
+.rectangle-icon117,
+.rectangle-icon129,
+.rectangle-icon118 {
+  height: 100%;
+  width: 5.58%;
+  top: 0;
+  right: 94.42%;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+}
+.rectangle-icon117,
+.rectangle-icon118 {
+  right: 78.2%;
+  left: 16.22%;
+}
+.rectangle-icon118 {
+  right: 72.61%;
+  left: 21.81%;
+}
+.rectangle-icon119,
+.rectangle-icon120,
+.rectangle-icon121,
+.rectangle-icon122,
+.rectangle-icon123,
+.rectangle-icon124,
+.rectangle-icon125 {
+  position: absolute;
+  height: 100%;
+  width: 5.58%;
+  top: 0;
+  right: 67.02%;
+  bottom: 0;
+  left: 27.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon120,
+.rectangle-icon121,
+.rectangle-icon122,
+.rectangle-icon123,
+.rectangle-icon124,
+.rectangle-icon125 {
+  right: 61.44%;
+  left: 32.98%;
+}
+.rectangle-icon121,
+.rectangle-icon122,
+.rectangle-icon123,
+.rectangle-icon124,
+.rectangle-icon125 {
+  right: 55.86%;
+  left: 38.56%;
+}
+.rectangle-icon122,
+.rectangle-icon123,
+.rectangle-icon124,
+.rectangle-icon125 {
+  right: 50.27%;
+  left: 44.15%;
+}
+.rectangle-icon123,
+.rectangle-icon124,
+.rectangle-icon125 {
+  right: 44.68%;
+  left: 49.74%;
+}
+.rectangle-icon124,
+.rectangle-icon125 {
+  right: 39.1%;
+  left: 55.32%;
+}
+.rectangle-icon125 {
+  right: 33.51%;
+  left: 60.91%;
+}
+.rectangle-icon126,
+.rectangle-icon127,
+.rectangle-icon128,
+.rectangle-icon130,
+.rectangle-icon131,
+.rectangle-icon132 {
+  position: absolute;
+  height: 100%;
+  width: 5.58%;
+  top: 0;
+  right: 27.93%;
+  bottom: 0;
+  left: 66.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: fill;
+}
+.rectangle-icon127,
+.rectangle-icon128,
+.rectangle-icon130,
+.rectangle-icon131,
+.rectangle-icon132 {
+  right: 22.34%;
+  left: 72.07%;
+}
+.rectangle-icon128,
+.rectangle-icon130,
+.rectangle-icon131,
+.rectangle-icon132 {
+  right: 16.76%;
+  left: 77.66%;
+}
+.rectangle-icon130,
+.rectangle-icon131,
+.rectangle-icon132 {
+  right: 11.17%;
+  left: 83.25%;
+}
+.rectangle-icon130,
+.rectangle-icon131,
+.rectangle-icon132 {
+  right: 4.58%;
+  left: 83.28%;
+}
+.rectangle-icon131,
+.rectangle-icon132 {
+  right: 0;
+  left: 88.92%;
+}
+.rectangle-icon132 {
+  right: 83.78%;
+  left: 10.64%;
+}
+.pitching-day-capstone-project1 {
+  position: absolute;
+  top: 0;
+  left: 5.59%;
+  width: 5.05%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: fill;
+}
+.viji-ppt {
+  position: absolute;
+  height: 99.93%;
+  width: 1817.28%;
+  top: 0;
+  right: -1717.28%;
+  bottom: 0.07%;
+  left: 0;
+}
+.frame-sw {
+  position: absolute;
+  width: 55.36%;
+  top: 4016px;
+  right: 6.94%;
+  left: 35.69%;
+  height: 8%;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.triangle6-icon {
+  position: absolute;
+  height: 1.77%;
+  width: 60.9%;
+  top: 71.21%;
+  right: 5.21%;
+  bottom: 27.02%;
+  left: 33.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.my-project {
+  position: relative;
+  background-color: #00296b;
+  width: 100%;
+  height: 5902px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-mulish);
+}

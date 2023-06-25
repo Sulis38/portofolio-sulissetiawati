@@ -13,7 +13,7 @@ if (asset5Image) {
 var asset6Image = document.getElementById("asset6Image");
 if (asset6Image) {
   asset6Image.addEventListener("click", function (e) {
-    // Please sync "My Project" to the project
+    window.location.href = "./myproject/my-project.html";
   });
 }
 
@@ -26,3 +26,4 @@ if (vector) {
     }
   });
 }
+
