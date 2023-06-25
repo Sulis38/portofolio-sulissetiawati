@@ -501,7 +501,7 @@
   top: 2359px;
   left: 770px;
   font-size: var(--font-size-2xl);
-  text-decoration: underline;
+  text-decoration: none;
   display: flex;
   font-style: italic;
   font-weight: 600;
@@ -515,10 +515,11 @@
 .sulissetiawati-sulisset-0382 {
   top: 2279px;
   left: 796px;
-  text-decoration: underline;
+  text-decoration: none;
   font-style: italic;
   width: 444px;
   height: 61px;
+  text-decoration: none;
 }
 .sulissetiawati-,
 .sulissetiawati-sulisset-0382,
