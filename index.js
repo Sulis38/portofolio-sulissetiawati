@@ -13,7 +13,7 @@ if (asset5Image) {
 var asset6Image = document.getElementById("asset6Image");
 if (asset6Image) {
   asset6Image.addEventListener("click", function (e) {
-    window.location.href = "./myproject/my-project.html";
+    window.location.href = "./my-project.html";
   });
 }
 

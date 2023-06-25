@@ -15,12 +15,12 @@
   <body>
     <div class="my-project">
       <div class="my-project1" data-scroll-to="myProjectText">My Project</div>
-      <!-- <img
+      <img
         class="asset-7-2"
         alt=""
         src="./public-mp/asset-7-2@2x.png"
         id="asset72"
-      /> -->
+      />
 
       <img
         class="asset-12-icon"
@@ -1097,45 +1097,6 @@
       <!-- <img class="triangle6-icon" alt="" src="./public-mp/triangle6.svg" /> -->
     </div>
 
-    <script>
-      // var asset72 = document.getElementById("asset72");
-      // if (asset72) {
-      //   asset72.addEventListener("click", function (e) {
-      //     window.location.href = "./index.html";
-      //   });
-      // }
-      
-      var asset12Image = document.getElementById("asset12Image");
-      if (asset12Image) {
-        asset12Image.addEventListener("click", function () {
-          var anchor = document.querySelector(
-            "[data-scroll-to='copyright2023Sulissetiawati']"
-          );
-          if (anchor) {
-            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
-          }
-        });
-      }
-      
-      var asset13Image = document.getElementById("asset13Image");
-      if (asset13Image) {
-        asset13Image.addEventListener("click", function () {
-          var anchor = document.querySelector("[data-scroll-to='designPosterText']");
-          if (anchor) {
-            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
-          }
-        });
-      }
-      
-      var vector = document.getElementById("vector");
-      if (vector) {
-        vector.addEventListener("click", function () {
-          var anchor = document.querySelector("[data-scroll-to='myProjectText']");
-          if (anchor) {
-            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
-          }
-        });
-      }
-      </script>
+    <script src="my-project.js"></script>
   </body>
 </html>
